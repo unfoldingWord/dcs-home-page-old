@@ -7,7 +7,7 @@ A way to design a dynamic, lively homepage for DCS
 `docker compose up`
 
 Then view at http://localhost:3000
-(You may get a warning about the host being set wrong. That's the URL for the CodeSandbox demo [below])
+<br/>(You may get a warning about the host being set wrong. That's the URL for the CodeSandbox demo [below])
 
 ## Remote view
 
