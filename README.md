@@ -11,7 +11,7 @@ Then view at http://localhost:3000
 
 ## Remote view
 
-Seee at [CodeSandbox]https://codesandbox.io/p/github/unfoldingWord/dcs-home-page/main?file=%2Ftemplates%2Fhome.tmpl)
+Seee at [CodeSandbox](https://codesandbox.io/p/github/unfoldingWord/dcs-home-page/main?file=%2Ftemplates%2Fhome.tmpl)
 
 View [CodeSandbox Preview](https://v9cgfh-3000.preview.csb.app/)
 
